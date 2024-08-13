@@ -2,9 +2,11 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhogavarapuchandrakala&label=Profile%20views&color=0e75b6&style=flat" alt="bhogavarapuchandrakala" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
@@ -12,13 +14,17 @@
 
 - 👯 I’m looking to collaborate on **FrontEnd Developer as Intern**
 
+- 👨‍💻 All of my projects are available at [responsive-portfolio-t1oo.vercel.app/](responsive-portfolio-t1oo.vercel.app/)
+
 - 💬 Ask me about **Html,css,Javascript**
 
 - 📫 How to reach me **chandrakala.bhogavarapu01@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_MSIDICveu42HN51kPmL57ac3G1ldzsZ/view?usp=sharing](https://drive.google.com/file/d/1_MSIDICveu42HN51kPmL57ac3G1ldzsZ/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chandrakala bhogavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakala bhogavarapu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandrakala-bhogavarapu-2887b3277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakala-bhogavarapu-2887b3277" height="30" width="40" /></a>
 <a href="https://instagram.com/___.chandu.___7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.chandu.___7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chandrakala19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chandrakala19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chandrakala bhogavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandrakala bhogavarapu" height="30" width="40" /></a>
