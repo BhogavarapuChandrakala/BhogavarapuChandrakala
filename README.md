@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrakala Bhogavarapu</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">Aspiring FullStack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
 
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **React js , Node js**
+- 🌱 I’m currently learning **React js , Node js,Express js,MongoDB**
 
-- 👯 I’m looking to collaborate on **FrontEnd Developer as Intern**
+- 👯 I’m looking to collaborate on **Software Developer as Intern**
 
 - 👨‍💻 All of my projects are available at [responsive-portfolio-t1oo.vercel.app/](responsive-portfolio-t1oo.vercel.app/)
 
